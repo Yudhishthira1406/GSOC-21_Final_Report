@@ -30,8 +30,8 @@ The final phase of the project included testing the performance of Chapel channe
 ## Contributions to the main repository
 | Pull Request | Description |
 |----|----|
-| [#17954](https://github.com/chapel-lang/chapel/pull/17954) | <ul> <li> It consists of the document used for the API review of the channels module </li> <li> It contains information about the user facing functions for channels </li> <li> It also contains the information about select statements and other imporatant design proposals </li></ul> | 
-| [#18168](https://github.com/chapel-lang/chapel/pull/18168) | <ul><li> This PR includes the implementation of the channel class and select statements. </li> <li> It also contains the tests written for examining correctness and performance of various channel operations. </li></ul> |
+| [#17954: [Design] Go-Style Channels API review](https://github.com/chapel-lang/chapel/pull/17954)  | <ul> <li> It consists of the document used for the API review of the channels module </li> <li> It contains information about the user facing functions for channels </li> <li> It also contains the information about select statements and other imporatant design proposals </li></ul> | 
+| [#18168: [GSOC] Go-Style Channels](https://github.com/chapel-lang/chapel/pull/18168) | <ul><li> This PR includes the implementation of the channel class and select statements. </li> <li> It also contains the tests written for examining correctness and performance of various channel operations. </li></ul> |
 
 ## Further Work
 * Work with my mentors to merge the open Pull Requests to the main repository
