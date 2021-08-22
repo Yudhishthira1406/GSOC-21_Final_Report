@@ -28,7 +28,7 @@ The select statement is used to choose from multiple send/receive channel operat
 The final phase of the project included testing the performance of Chapel channels and comparing it with the benchmarks written in Golang.
 
 ## Interface of the module
-![example](https://user-images.githubusercontent.com/55523247/130367367-656f87e7-6bd3-45be-b6cd-3c3c10c75605.png)
+![example!](https://user-images.githubusercontent.com/55523247/130367586-12962c00-52c4-459f-bd2d-726ddd8d78b0.png)
 
 ## Contributions to the main repository
 | Pull Request | Description |
