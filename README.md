@@ -1,10 +1,11 @@
 # GSOC'21 Final Report | Chapel
 ## Project Details
 
-* **Student:** Divye Nayyar
-* **Project:** Go-Style Channels
-* **Organisation:** [Chapel](https://chapel-lang.org/)
-* **Mentors:** [Michael Ferguson](https://github.com/mppf), [Aniket Mathur](https://github.com/Aniket21mathur)
+* ***Student:** Divye Nayyar<br>*
+* ***Project:** Go-Style Channels*
+* ***Organisation:** [Chapel](https://chapel-lang.org/)*
+* ***Mentors:** [Michael Ferguson](https://github.com/mppf), [Aniket Mathur](https://github.com/Aniket21mathur)*
+
 
 ## Abstract
 Chapel is a programming language designed for productive parallel computing at scale. It is designed to be highly portable and can run on multiple architectures. This allows chapel to be used in a highly parallel environment and implement complex algorithms. It would require the chapel users to specify synchronization and communication patterns to their codes in addition to the problem logic. This would make the code less readable and lead to inefficiency, unwanted race conditions, and incorrect results. Channels will solve this problem by effectively taking care of communication and synchronization between various tasks and thus, would enable the user to write more efficient and clean code.
